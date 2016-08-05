@@ -1,0 +1,25 @@
+_repo: The-BYU-Solar-Cooker-Cooler_5889
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jones, Steven E.
+    birthdate: 1949
+    gutenberg_agent_id: '1892'
+    url: http://www.gutenberg.org/2009/agents/1892
+    wikipedia: http://en.wikipedia.org/wiki/Steven_E._Jones
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5889'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Solar cooking -- Handbooks, manuals, etc.'
+- !lcsh 'Solar ovens -- Handbooks, manuals, etc.'
+- !lcc 'TX'
+- GITenberg
+title: The BYU Solar Cooker/Cooler
+url: http://www.gutenberg.org/ebooks/5889
